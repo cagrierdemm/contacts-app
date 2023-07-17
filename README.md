@@ -1,3 +1,17 @@
+# Contacts App
+
+A simple Contacts App built with React
+
+## Functions
+
+- Filtering
+- Storing information with localStorage
+- Sort by name
+
+### Preview
+
+![Preview](public/preview.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
